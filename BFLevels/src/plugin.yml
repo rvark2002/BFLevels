@@ -1,0 +1,24 @@
+name: BFLevels
+main: com.vark.BFLevels.Main
+version: 0.1
+api-version: 1.16
+commands:
+    levels:
+        description: see how many levels you have
+        usage: /levels
+        
+    givelevels:
+        description: see how many levels you have
+        usage: /givelevels
+        
+        
+        
+    giveexp:
+        description: see how many levels you have
+        usage: /giveexp            
+
+permissions:
+    bflevels.admin:
+        description: Admin Level Shit
+        default: op
+   
